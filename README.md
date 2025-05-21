@@ -1,2 +1,5 @@
 # Hybrid-Text-Data-Summarization
 A Hybrid Text Summarization using KL-Divergence, Greedy Sentence Selection and Fine-tuned using MLE &amp; PPO
+
+Text summarization is the automated process of shortening long pieces of text into summary,understandable formats that retain the most important information from their initial source. As wenavigate this new information era, characterized by an exponential increase in digital text from news sources, academic research, reports, and the web, the need to swiftly glean pertinent insights is essentialfor effective learning and informed decision-making. Summarization meets this fundamental need and delivers easy-to-digest summaries that save precious seconds while allowing users to quickly grasp a document’s main point without the need to dive into the full text. The methodologies developed to do so largely fit neatly into one of two buckets: extractive summarization, which pulls important sentences or phrases directly from the source text and compiles them, and abstractive summarization, which produces entirely new sentences to express the source’s key messages, frequently with a different
+lexicon and syntax.
